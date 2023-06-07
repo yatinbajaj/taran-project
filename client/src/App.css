@@ -1,0 +1,164 @@
+.App {
+  text-align: center; 
+}
+
+.background_image
+{
+	background-image: url('./cats-n-dogs2.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+
+.Box {
+  width: max-content;
+  height: max-content;
+  margin-top: 3%;
+  margin-left: 35%;
+  padding: 10px;
+  text-align: left;
+  border: 3px;
+  border-style: solid;
+  border-color: slategray;
+  border-radius: 10px;
+  background-color: linen;
+  opacity: 89%;
+}
+
+.detail_box {
+  width: max-content;
+  height: max-content;
+  margin-top: 3%;
+  margin-left: 35%;
+  padding: 10px;
+  text-align: left;
+  border: 3px;
+  border-style: solid;
+  border-color: slategray;
+  border-radius: 10px;
+  background-color: linen;
+  opacity: 89%;
+}
+
+.list_box {
+  width: 45%;
+  height: 450px;
+  overflow-y: scroll;
+  margin-left: 27%;
+  padding: 10px;
+  text-align: left;
+  border: 3px;
+  border-style: solid;
+  border-color: slategray;
+  border-radius: 10px;
+  background-color: linen;
+  opacity: 89%;
+}
+
+.edit_box {
+  width: max-content;
+  height: max-content;
+  margin-left: 40%;
+  margin-top: 2%;
+  padding-left:20px;
+  padding-right: 20px;
+  padding-top: 1px;
+  padding-bottom: 10px;
+  text-align: left;
+  border: 3px;
+  border-style: solid;
+  border-color: slategray;
+  border-radius: 10px;
+  background-color: linen;
+  opacity: 89%;
+}
+
+.add_box {
+  width: max-content;
+  height: max-content;
+  margin-left: 30%;
+  margin-top: 2%;
+  padding-left:20px;
+  padding-right: 5px;
+  padding-top: 1px;
+  padding-bottom: 10px;
+  text-align: left;
+  border: 3px;
+  border-style: solid;
+  border-color: slategray;
+  border-radius: 10px;
+  background-color: linen;
+  opacity: 89%;
+}
+
+.bold40 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.button_green{
+  height: 40px;
+  background-color: green;
+  color: white;
+  border: 3px;
+  border-style: solid;
+  border-color: slategray;
+  border-radius: 10px;
+  font-size: 30px;
+  margin-bottom: 15px;
+
+}
+
+.color {
+  color: saddlebrown;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+.float_left {
+  float:left;
+}
+
+.float_right {
+  float:right;
+  margin-right: 70px;
+}
+
+.font25 {
+  font-size: 25px;
+}
+
+.font30 {
+  font-size: 30px;
+}
+
+.header_font {
+  margin-top: 25px;
+  font-size: 70px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.image {
+  width: 400px;
+  height: 300px;
+}
+
+.margin_left40{
+  margin-left: 60px;
+}
+
+.Table {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  font-size: 30px;
+}
+
+.thumbnail {
+  width: 100px;
+  height: 80px;
+}
+
